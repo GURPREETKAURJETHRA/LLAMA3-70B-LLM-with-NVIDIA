@@ -2,8 +2,11 @@
 Run LLAMA-3 70B LLM with NVIDIA endpoints on amazing Streamlit UI 
 
 ## 📝 Description
-Meet LLAMA3 Chat AI App! 🚀 Meta Unveils Llama 3, the Most Powerful Open Source Model Yet 🌟 [LLAMA3 ▶️](https://llama.meta.com/llama3/) 🔥✨                       
-Chat seamlessly with LLAMA3 Chatbot. Get instant, Accurate responses from Awesome Llama3 OpenSource language Model  📚💬 
+Meet LLAMA3 Chat AI App! 🚀                                     
+Meta Unveils Llama 3, the Most Powerful Open Source Model Yet 🌟 [LLAMA3 ▶️](https://llama.meta.com/llama3/) 🔥✨                       
+Chat seamlessly with LLAMA3 Chatbot. Get instant, Accurate responses from Awesome Llama3 OpenSource language Model📚💬 
+
+
 ## ▶️Installation
 
 Clone the repository:
